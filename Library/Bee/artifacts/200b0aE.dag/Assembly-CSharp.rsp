@@ -344,6 +344,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Hello.cs"
 "Assets/scripts/MoveObject.cs"
+"Assets/scripts/PrefabSpawner.cs"
 -langversion:9.0
 
 /deterministic

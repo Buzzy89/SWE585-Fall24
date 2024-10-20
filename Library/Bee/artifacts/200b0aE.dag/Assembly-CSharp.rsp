@@ -319,6 +319,8 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.35f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"/Users/osmanyusufyildirim/HelloWorld/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"/Users/osmanyusufyildirim/HelloWorld/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Cinemachine.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -345,6 +347,7 @@
 "Assets/Hello.cs"
 "Assets/scripts/MoveObject.cs"
 "Assets/scripts/PrefabSpawner.cs"
+"Assets/scripts/SoundController.cs"
 -langversion:9.0
 
 /deterministic
